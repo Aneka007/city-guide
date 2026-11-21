@@ -74,6 +74,10 @@ a {
   background-color: #dcecf4;
   margin-bottom: 24px;
 }
+.card-top {
+  background-color: #d5eae3;
+  border: 3px solid #237f79;
+}
 .card-icon {
   font-size: 36px;
   margin: 0;
