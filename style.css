@@ -87,3 +87,23 @@ a {
   font-weight: 700;
   color: #237f79;
 }
+
+.hero,
+.places,
+.tips {
+  padding: 32px 24px;
+}
+.hero {
+  background-color: #dcecf4;
+}
+.note {
+  background-color: #dcecf4;
+  padding: 16px 20px;
+  border-left: 4px solid #237f79;
+}
+.site-footer {
+  padding: 32px 24px;
+  background-color: #203e3b;
+  color: #f1f7f8;
+  text-align: center;
+}
