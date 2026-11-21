@@ -1,0 +1,119 @@
+/* Мои цвета:
+   #F1F7F8 светлый голубоватый — фон страницы
+   #203E3B тёмный хвойный — текст
+   #237F79 бирюзовый — кнопки и выделения
+   #DCECF4 нежно-голубой — фон карточек
+*/
+body {
+  margin: 0;
+  background-color: #f1f7f8;
+  color: #203e3b;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3 {
+  color: #203e3b;
+}
+h1 {
+  font-size: 42px;
+}
+h2 {
+  font-size: 32px;
+}
+h3 {
+  font-size: 24px;
+}
+.accent {
+  color: #237f79;
+}
+.logo {
+  font-size: 24px;
+  font-weight: 700;
+}
+.hero-label {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+}
+.site-header {
+  padding: 20px 30px;
+  background-color: #dcecf4;
+}
+.menu a {
+  color: #203e3b;
+  margin-right: 20px;
+}
+
+.button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #237f79;
+  color: #ffffff;
+  border: 2px solid #237f79;
+  border-radius: 12px;
+}
+.button-outline {
+  background-color: #f1f7f8;
+  border: 2px solid #237f79;
+  color: #237f79;
+}
+
+.card {
+  width: 300px;
+  box-sizing: border-box;
+  padding: 20px;
+  border: 2px solid #237f79;
+  border-radius: 16px;
+  background-color: #dcecf4;
+  margin-bottom: 24px;
+}
+.card-top {
+  background-color: #d5eae3;
+  border: 3px solid #237f79;
+}
+.card-icon {
+  font-size: 36px;
+  margin: 0;
+}
+.card h3 {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+.card-info {
+  font-size: 16px;
+  font-weight: 700;
+  color: #237f79;
+}
+
+.hero,
+.places,
+.tips {
+  padding: 32px 24px;
+}
+.hero {
+  background-color: #dcecf4;
+}
+.note {
+  background-color: #dcecf4;
+  padding: 16px 20px;
+  border-left: 4px solid #237f79;
+}
+.site-footer {
+  padding: 32px 24px;
+  background-color: #203e3b;
+  color: #f1f7f8;
+  text-align: center;
+}
+/* Коробка карточки «Медеу»:
+   ширина содержимого: 254.444x258.351px;
+   padding: 20px;
+   border: 2.778px;
+   margin снизу: 24px;
+*/
