@@ -38,3 +38,15 @@ h3 {
   font-size: 14px;
   font-weight: 700;
 }
+
+a {
+  text-decoration: none;
+}
+.site-header {
+  padding: 20px 30px;
+  background-color: #dcecf4;
+}
+.menu {
+  color: #203e3b;
+  margin-right: 20px;
+}
