@@ -1,0 +1,14 @@
+/* Мои цвета:
+   #F1F7F8 светлый голубоватый — фон страницы
+   #203E3B тёмный хвойный — текст
+   #237F79 бирюзовый — кнопки и выделения
+   #DCECF4 нежно-голубой — фон карточек
+*/
+body {
+  margin: 0;
+  background-color: #f1f7f8;
+  color: #203e3b;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
