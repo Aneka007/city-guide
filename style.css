@@ -50,3 +50,17 @@ a {
   color: #203e3b;
   margin-right: 20px;
 }
+
+.button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #237f79;
+  color: #ffffff;
+  border: 2px solid #237f79;
+  border-radius: 12px;
+}
+.button-outline {
+  background-color: #f1f7f8;
+  border: 2px solid #237f79;
+  color: #237f79;
+}
